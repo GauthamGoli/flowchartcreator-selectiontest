@@ -22,3 +22,9 @@ $ python createFlowChart.py
  * Running the above command results in two files being created in the same directory named ```outfile.gv``` and ```outfile.png```
  * ```outfile.gv``` is a file which has the flowchart in [Dot Language](http://www.graphviz.org/content/dot-language)
  * ```outfile.png``` is converted from ```outfile.gv```
+
+### Output
+
+ * This is a very basic flowchart which can be further customized a lot.
+
+![test-flowchart-here](https://github.com/GauthamGoli/flowchartcreator-selectiontest/raw/master/outfile.png)
